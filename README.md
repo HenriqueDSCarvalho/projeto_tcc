@@ -1,4 +1,4 @@
-# Controle de Estoque - Petus
+# Controle de Estoque - Super estoque
 
 Sistema desenvolvido com intuito de aplicar a gestão de estoque.
 
