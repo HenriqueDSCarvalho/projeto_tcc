@@ -6,7 +6,7 @@ Sistema desenvolvido com intuito de aplicar a gestão de estoque.
 
 ### Tela de Login :
 
-![Capturar](https://imagem.app/image/WhatsApp-Image-2023-11-06-at-21.31.28.oTVw7i)
+![Capturar](https://imagem.app/image/WhatsApp-Image-2023-11-06-at-21.31.28.oTVuHe)
 
 ### Dashboard:
 
